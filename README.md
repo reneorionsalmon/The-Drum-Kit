@@ -1,2 +1,2 @@
-# Ezdrummer-Samples
-My Collection of EzDrummer 2 Samples
+# The Drum Kits
+Badass Drum Samples
