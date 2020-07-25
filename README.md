@@ -60,22 +60,48 @@ Please note that these are completely uncompressed .WAV files. If you do wish to
 * 16" x 16" Gretsch USA Custom
 * 13" x 15" Yamaha 9000
 
-### Cymbal 
+### Cymbal 1
 * 16" Sabian HHX Evolution Crash 
 * 16" Paiste Twenty Thin Crash 
 
-### Cymbal 
+### Cymbal 2
 * 17" Sabian AAX Xplosion Fast Crash 
 * 18" Paiste Giant Beat Crash 
 
-### Cymbal 
+### Cymbal 3
 * 20" Sabian HHX Evolution Ozone Crash 
 * 19" Paiste Signature Full Crash 
 
-### Cymbal 
+### Cymbal 4
 * 17" Sabian Xtreme Crash 
 * 18" Sabian HHX Xtreme Crash 
 
 ### Ride
 * 20" Sabian Vault Artisan
 * 20" Paiste 2002
+
+## The Vintage Kit
+### Kick
+* 14" x 20" Ludwig 60's
+* 14" x 20" Ludwig 60's Open
+* 14" x 22" Ludwig Vistalite
+* 16" x 26" Gretsch Catalina Club
+### Snare
+* 5" x 14" Ludwig 400 
+* 5" x 14" Ludwig 400 Dampened 
+* 6.5" x 14" Cretch Chrome over Brass 
+* 6.5" x 14" Cretch Chrome over Brass Dampened 
+### Hi Hat
+* 14" Sabian HHX Manhattan
+### Racktoms
+* 8" x 12" Ludwig 60's 
+* 8" x 12" Ludwig Vistalite 
+### Floortoms
+* 14" x 14" Ludwig 60's 
+* 16" x 16" Ludwig Vistalite 
+### Cymbal 1
+* 18" Paiste Giant Beat Crash - Crash
+### Cymabl 2
+* 18" Sabian Artisan Vault Crash - Crash
+### Ride
+* 21" Sabian Vault Crossover Ride - Bow
